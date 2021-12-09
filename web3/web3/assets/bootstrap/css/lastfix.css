@@ -1,0 +1,17 @@
+.btn-g12{
+    border: 1px solid #007bff;
+    background-color: #007bff;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+}
+.btn-g12:hover{
+    border: 1px solid #007bff;
+    background-color: white;
+    color: #007bff;
+    transition: 0.4s;
+}
+
